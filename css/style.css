@@ -3,6 +3,10 @@
   background-color: black;
 }
 
+button {
+    margin: 0;
+}
+
 .searchButton, #clear{
     border: none;
 }
@@ -28,9 +32,11 @@
 
 .topnav input[type=text] {
   padding: 6px;
+  margin-right: 0;
   margin-top: 8px;
   font-size: 17px;
   border: none;
+  
 }
 
 .topnav .search-container button {
