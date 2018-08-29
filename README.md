@@ -9,4 +9,4 @@ gifs. Their is also a favorite button, which adds a favorite search button to th
 in local storage. If there is a favorite stored when a user loads the page that term is called instead
 of the default ("cyan").
 
-Quick test
+New Test
