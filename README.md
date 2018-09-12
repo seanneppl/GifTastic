@@ -8,3 +8,5 @@ calls to add gifs to the page. They can also add their own search terms, which b
 gifs. Their is also a favorite button, which adds a favorite search button to the nav bar and stores the favorite item
 in local storage. If there is a favorite stored when a user loads the page that term is called instead
 of the default ("cyan").
+
+![ScreenShot](https://user-images.githubusercontent.com/38054153/45454779-a2fd3980-b6aa-11e8-83d5-c5fbf17bf289.png)
